@@ -1,2 +1,2 @@
 # tasks_vanilla_js-
-Just some practive for express, javascript
+Just some practice for express, javascript
