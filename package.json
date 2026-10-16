@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0",
+    "express-generator": "^4.16.1",
+    "nodemon": "^3.1.14",
+    "pg": "^8.23.1",
+    "zod": "^4.6.7"
+  },
+  "name": "tasks_vanilla_js-",
+  "type": "module",
+  "description": "Just some practice for express, javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlassWaterSoda/tasks_vanilla_js-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlassWaterSoda/tasks_vanilla_js-/issues"
+  },
+  "homepage": "https://github.com/GlassWaterSoda/tasks_vanilla_js-#readme"
+}
